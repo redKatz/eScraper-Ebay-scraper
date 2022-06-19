@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/XJyHbZ7/gh.png)
 # INSTALLATION
-    git clone
+    git clone https://github.com/redKatz/eScraper-Ebay-scraper
     cd eScraper-Ebay-scraper
     python3 main.py
 
