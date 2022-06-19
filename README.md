@@ -5,7 +5,7 @@
     python3 main.py
 
 # HOW TO USE
-
+Start program and enter price limits you want, then enter the name of the product you want to search for (it has to consist of two words joined by a "+")
 
 ### 📱 _Social:_
 [Instagram](https://instagram.com/katz.py/)<br />
